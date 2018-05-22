@@ -1,7 +1,14 @@
 # movie-trailers
-my project:
-iam intrested to say that it is my first project 
-movie trailers in this i kept my intrested movie trailers 
+iam intrested to say that it is my first project .
+movie trailers in this i kept my intrested movie trailers.
 
-back end : python.
-frunt end :html,css,java script.
+# how project runs in code
+mainly we have given an image when we click on img the trailer may opens at play in the same webpage.
+
+# back-end languages
+python .
+
+# frunt-end 
+html
+css
+java script.
