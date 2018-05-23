@@ -1,6 +1,11 @@
 #!/usr/bin/env python
 import webbrowser
-
+"""class movie():
+it is a class object in this there are three
+variables they are
+movie_title
+poster_image
+trailer_youtube"""
 
 class Movie():
     def __init__(self, movie_title,
